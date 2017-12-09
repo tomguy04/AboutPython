@@ -1,0 +1,157 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: verdana;
+}
+
+#wrapper{
+    width: 970px;
+
+    margin: 0px auto;
+}
+
+.uppercontent{
+    background-color: #075af5;
+}
+
+.header{
+    background-color: blue;
+    height: 100px;
+    padding: 10px 10px 10px 10px;
+}
+
+.header h3{
+    margin: 0px 0px 0px 736px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.header img{
+    width: 40%;
+    display: inline-block;
+}
+
+.menucontainer ul{
+    width: 750px;
+    background-color: lightskyblue;
+    margin-left: 106px;
+    padding: 10px 0px 7px 33px;
+    border-radius: 10px;
+}
+
+.menu li{
+    display: inline-block;
+    
+    margin: 0px 38px 0px 0px;
+    color: white;
+}
+
+.mainbody{
+    display: inline-block;
+    background-color:#075af5;
+}
+.navcontainer ul{
+    width: 200px;
+    background-color: #075af5;
+    margin-left: 10px;
+    padding: 0px 30px 0px 0px;
+    list-style-position: inside;
+}
+
+.navcontainer{
+    display: inline-block;
+    
+    background-color: #075af5;
+    vertical-align: top;
+    margin: 0px 0px 0px 64px;
+    padding: 30px 0px 0px 0px;
+    text-align: center;
+}
+
+.nav li{
+    margin-left: 20px;
+}
+
+.uppercontent p{
+    color:white;
+    display: inline-block;
+    vertical-align: top;
+    width: 554px;
+    margin: 10px 0px 0px 10px;
+    font-size: 12px;
+    text-align: center;
+    
+}
+
+.zenlistcontainer{
+    background-color: #075af5;;
+    margin: 0px 0px 0px 64px;
+    padding: 10px 0px 0px 0px;
+    text-align: center;
+    color: white;
+    
+}
+
+.zenlistcontainer ul{
+    list-style-type: none;
+    color: yellow;
+    padding-bottom: 10px;
+}
+
+
+.zenlistcontainer li{
+    font-style:italic;
+    padding: 5px;
+}
+
+.Zenlist{
+width: 50px;
+}
+
+.lowercontent{
+    background-color: white;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.lowercontent h2{
+    margin: 0px;
+    padding: 0px;
+}
+
+.lowercontentleft{
+    
+    width: 400px;
+    background-color: white;
+    display: inline-block;
+    vertical-align: top;
+    padding: 0px 47px 0px 0px;
+    margin: 0px 0px 0px 12px;
+    border-top-style: solid;
+}
+
+.lowercontentleft li{
+    font-size: 10px;
+    text-align: center;
+}
+
+
+.lowercontent ul{
+    margin:0px 70px;
+}
+
+.footer{
+    height: 80px;
+    background-color: #075af5;
+    margin-top: 10px;
+    padding: 10px 0px 0px 5px;
+    text-align: center;
+}
+
+.footer h3{
+    display: inline-block;
+    padding: 20px 10px 10px 61px;
+}
+
+
+
